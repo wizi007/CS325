@@ -58,5 +58,3 @@ for file_name in files:
                 out.write(clean_text+'\n')
 
 
-
-# print content of request
