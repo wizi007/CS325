@@ -1,0 +1,5 @@
+positive, positive
+negative
+positive, negative
+nothing
+positive
